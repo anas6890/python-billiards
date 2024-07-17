@@ -2,7 +2,7 @@ numpy
 matplotlib
 tqdm
 pyglet
-setuptools>=40.8.0
+setuptools>=70.0.0
 pytest
 pytest-cov
 bump2version
